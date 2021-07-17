@@ -51,3 +51,4 @@ if(courseSeats >= 1){
         console.log("Sent: " + info.response);
     })
 }
+
